@@ -1,0 +1,6 @@
+{
+  "name": "RentiBee - Short-Term Rental Management Lahore",
+  "description": "We market your home on top short-term rental platforms, and advertise on different social media platforms. We manage bookings, guest-communication and send 80% of earnings to your account within 24-72 hours. Serving all over Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
